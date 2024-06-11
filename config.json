@@ -1,0 +1,95 @@
+{
+  "prefix": "!",
+  
+  "welcomeRoomId": "1130942985568276560",
+  
+  "rankbanner": "rank3.png",
+  
+  "timechannelID": "1244734366773673985",
+  "timemessageID": "1244800022923706408",
+  "timeguildID": "1089614823374991520",
+  
+  "suggestionschannel": "1237080968150515762",
+  
+  "welcomeLogChannelId": "1156897802094387312",
+  "claimPermissionRoleId": "1237454434452111444",
+  "logChannelId": "1223752968055160993",
+  "TicketReportChannelId": "1242770226194550855",
+  "ServerReportChannelId": "1156897802094387312",
+  "TicketSaveChannelId": "1249139183478374410",
+  "levelUpChannelId": "1155544289678479401",
+  
+  "avatar_id": "1247899736783192137",
+  "bot_id": "1233546878235181076",
+  "channel_info_id": "1244237374821499000",
+  "clear_id": "1233546918626332755",
+  "edit_message_id": "1244236366124945408",
+  "emoji_list_id": "1244237120680230992",
+  "member_list_id": "1244237120680230993",
+  "message_info_id": "1244247505286336543",
+  "ping_id": "1233547629334495324",
+  "role_info_id": "1244242819485532160",
+  "role_list_id": "1244237120680230994",
+  "say_id": "1244236258482589726",
+  "server_banner_id": "1249104256716505159",
+  "server_info_id": "1244236951754899458",
+  "tax_id": "1233568305210458143",
+  "test_welcome_id": "1244236142585450528",
+  "user_banner_idd": "1244236863372525619",
+  "user_info_id": "1244236863372525620",
+  
+    "categoryIDs": {
+    "ticket_1": "1223831592758153247",
+    "ticket_2": "1223831592758153247",
+    "ticket_3": "1223831592758153247",
+    "ticket_4": "1223831592758153247",
+    "ticket_5": "1223831592758153247",
+    "ticket_6": "1223831592758153247"
+  },
+  "selectMenuOptions": [
+    {
+      "label": "Buy Robux",
+      "value": "ticket_1",
+      "rolesupport": "<@&1223827800473997353>",
+      "roleticketid": "1223827800473997353",
+      "emoji": "⛔"
+    },
+    {
+      "label": "Buy UC",
+      "value": "ticket_2",
+      "rolesupport": "<@&1223827483661439066>",
+      "roleticketid": "1223827483661439066",
+      "emoji": "⛔"
+    },
+    {
+      "label": "Buy Project",
+      "value": "ticket_3",
+      "rolesupport": "<@&1223828539879587860>",
+      "roleticketid": "1223828539879587860",
+      "emoji": "⛔"
+    },
+    {
+      "label": "Photoshop",
+      "value": "ticket_4",
+      "rolesupport": "<@&1223828047644463144>",
+      "roleticketid": "1223828047644463144",
+      "emoji": "⛔"
+    },
+    {
+      "label": "Editing",
+      "value": "ticket_5",
+      "rolesupport": "<@&1223828397898076190>",
+      "roleticketid": "1223828397898076190",
+      "emoji": "⛔"
+    },
+    {
+      "label": "Support",
+      "value": "ticket_6",
+      "rolesupport": "<@&1223827487893487656>",
+      "roleticketid": "1223827487893487656",
+      "emoji": "☑️"
+    }
+  ]
+}
+
+
